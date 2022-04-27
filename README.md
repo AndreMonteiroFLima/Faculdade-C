@@ -1,2 +1,2 @@
 # Faculdade-C
-Aqui teram arquivos relacionados a faculdade
+Aqui terão arquivos relacionados a faculdade
